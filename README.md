@@ -433,6 +433,3 @@ createRoot(document.getElementById("root")!).render(<App />);
 
 ```
 
-# metricpress
-# metricpress
-# metricpress
